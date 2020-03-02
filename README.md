@@ -19,7 +19,7 @@
 		* [ Concept 08 : Java Collections (Stack and Queue) ](#tst)
 		* [ Concept 09 : Java Collections (Map and Set) ](#tst)
 		* [ Concept 10: Environment Setup ](#tst)
-      		* [ Concept 11: Exception and File IO ](#tst)
+		* [ Concept 11: Exception and File IO ](#tst)
 		* [ Concept 12: Java Programming Practice Exercises ](#tst)
 		* [ Concept 13: Java Refresher Course - Summary ](#tst)
 	* #### Lesson 02: Introduction to the Spring Boot framework
